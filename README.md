@@ -118,7 +118,7 @@ Open weights and code that rebuild the System One shape from encoders, small dec
 
 ## 🔧 Built with Jev
 
-Open, licensed software that puts Jev inside something that runs: routers, agents, games and integrations.
+Software that puts Jev inside something that runs: routers, agents, games and integrations.
 
 - [Jev Chat Assistant](https://github.com/jev-chat/jev-chat-jarvis), Android chat overlay where Jev judges intent and ranks replies while a separate LLM drafts them; the author reports device-tested QQ, X and Feishu/Lark adapters, and the app also reads WhatsApp. [![Code](https://img.shields.io/github/stars/jev-chat/jev-chat-jarvis?style=flat-square&logo=github&label=Code&color=181717)](https://github.com/jev-chat/jev-chat-jarvis)
 - [RoboJEV](https://github.com/lykycy123/RoboJEV), Two-stage Franka Panda control from structured simulator state; 43 of 50 Jev trials succeed versus 48 of 50 rule-baseline trials across five MuJoCo tasks, with success and failure recordings. [![Code](https://img.shields.io/github/stars/lykycy123/RoboJEV?style=flat-square&logo=github&label=Code&color=181717)](https://github.com/lykycy123/RoboJEV) [![Website](https://img.shields.io/badge/Website-2EA44F?style=flat-square&logo=googlechrome&logoColor=white)](https://lykycy123.github.io/RoboJEV/)
@@ -284,7 +284,7 @@ The sibling lists.
 
 ## Contributing
 
-Open a pull request. Link the paper or the primary page, add the code repository or Hugging Face path if there is one, and say in one line which test the entry passes. [CONTRIBUTING.md](CONTRIBUTING.md) has the four tests and the entry format.
+Add one line to the section that fits and open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) shows the format.
 
 ---
 
