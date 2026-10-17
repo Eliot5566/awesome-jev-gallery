@@ -284,7 +284,7 @@ The sibling lists.
 
 ## Contributing
 
-Add one line to the section that fits and open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) shows the format.
+Add one line to the section that fits, then open a pull request. [CONTRIBUTING.md](CONTRIBUTING.md) shows the format.
 
 ---
 

@@ -2,7 +2,7 @@
 //
 // The list is generated from a private data set, so the badges, the table of
 // contents and the News paragraph all state counts that nothing in this
-// repository recomputes. A pull request that adds an entry updates some of them
+// repository recomputes. An edit that adds an entry updates some of them
 // and forgets the rest, and the numbers drift a little at a time.
 //
 // Each count below is derived the same way the generator derives it:
