@@ -16,6 +16,6 @@ For a paper, put its title in quotes after the name.
 - [RouteLLM](https://arxiv.org/abs/2406.18665), "Learning to Route LLMs with Preference Data". [badges]
 ~~~
 
-Badges are optional. Copy them from a nearby entry if you want them.
+Badges are optional. Copy them from a nearby entry if you like.
 
 By contributing, you agree that your contribution can be distributed under the [CC BY 4.0 license](LICENSE).
