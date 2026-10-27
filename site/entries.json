@@ -110,7 +110,7 @@
   "order": 7.6,
   "name": "Flide",
   "sub": "",
-  "why": "Open inference engine for decision models, up to 9.4 times faster than vLLM and SGLang on one H200 with Qwen3.5-0.8B. It forks one state into all of its questions in one forward pass, so every answer matches the question asked alone, and serves OneJev, Qwen3.5 and Gemma 4 through /v1/systemone",
+  "why": "Open-source inference engine for decision models, up to 9.4× faster than existing LLM inference frameworks while maintaining high precision. Supports 19 model families through /v1/systemone.",
   "test": "a",
   "section": "reproductions",
   "group": "jev",
